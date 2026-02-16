@@ -55,7 +55,7 @@ Run `turbo dev` to run an auto-updating devserver on port 8080. See [the devserv
 
 ### Setup for GCP
 
-1. Install `gsutil`
+1. Install `gcloud`
 2. Run `gcloud auth login`
 3. Run `gcloud config set project learnjs-174218` to set the project.
 
